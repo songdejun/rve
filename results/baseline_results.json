@@ -1,0 +1,82 @@
+[
+  {
+    "sample_id": "38264402",
+    "input_length": 746,
+    "output_length": 64,
+    "perplexity": 1.3348983526229858,
+    "generated_summary": "Prison Link Cymru reported 1,099 referrals in 2015-16, highlighting the issue of ex-offenders living rough for up to a year before finding suitable accommodation. The charity claims investing in housi",
+    "reference_summary": "There is a \"chronic\" need for more housing for prison leavers in Wales, according to a charity."
+  },
+  {
+    "sample_id": "34227252",
+    "input_length": 66,
+    "output_length": 64,
+    "perplexity": 1.5594514608383179,
+    "generated_summary": "Police conducted searches in two areas of the city, recovering three firearms, ammunition, and a large amount of cash. A 26-year-old suspect was arrested and charged, appearing in court on Thursday. T",
+    "reference_summary": "A man has appeared in court after firearms, ammunition and cash were seized by police in Edinburgh."
+  },
+  {
+    "sample_id": "38537698",
+    "input_length": 341,
+    "output_length": 64,
+    "perplexity": 1.51288902759552,
+    "generated_summary": "Four teenagers, aged 18 and 24, were charged with hate crimes and aggravated kidnapping and battery in a Chicago court. The victims are an 18-year-old white man with mental health issues who was kidna",
+    "reference_summary": "Four people accused of kidnapping and torturing a mentally disabled man in a \"racially motivated\" attack streamed on Facebook have been denied bail."
+  },
+  {
+    "sample_id": "36175342",
+    "input_length": 87,
+    "output_length": 64,
+    "perplexity": 1.453203797340393,
+    "generated_summary": "The article discusses the career of a 48-year-old former Arsenal goalkeeper who played for Reading for four years. He served as the youth academy director from 2000 and the director of football since ",
+    "reference_summary": "West Brom have appointed Nicky Hammond as technical director, ending his 20-year association with Reading."
+  },
+  {
+    "sample_id": "39070183",
+    "input_length": 781,
+    "output_length": 64,
+    "perplexity": 1.395224690437317,
+    "generated_summary": "A modified version of a \"fasting-mimicking diet\" has been found to restore the function of pancreatic beta cells, which help regulate blood sugar levels, in animal experiments. This diet involves five",
+    "reference_summary": "The pancreas can be triggered to regenerate itself through a type of fasting diet, say US researchers."
+  },
+  {
+    "sample_id": "38899892",
+    "input_length": 1024,
+    "output_length": 64,
+    "perplexity": 1.7070772647857666,
+    "generated_summary": "The proposed merger between France's Essilor and Italy's Luxottica, two major players in the global spectacle and contact lens manufacturing industry, raises concerns among industry experts and stakeh",
+    "reference_summary": "Since their impending merger was announced in January, there has been remarkably little comment about the huge proposed deal to combine Essilor and Luxottica."
+  },
+  {
+    "sample_id": "39339718",
+    "input_length": 1024,
+    "output_length": 64,
+    "perplexity": 1.844908595085144,
+    "generated_summary": "Former British Cycling rider Wendy Houvenaghel has criticized the organization for prioritizing medal-winning efforts over athlete welfare, citing her own experiences and those of other female cyclist",
+    "reference_summary": "A \"medal at any cost\" approach created a \"culture of fear\" at British Cycling, says former rider Wendy Houvenaghel."
+  },
+  {
+    "sample_id": "34571446",
+    "input_length": 1024,
+    "output_length": 64,
+    "perplexity": 1.552590250968933,
+    "generated_summary": "In 2009, Kareem Badr and his friends invested $20,000 in the Hideout, a struggling Austin comedy club. Despite lacking experience, they managed to turn it around and now employ around 25 staff. The cl",
+    "reference_summary": "Have you heard the one about the computer programmer who bought a failing comedy club in Texas and turned it into a million dollar a year business?"
+  },
+  {
+    "sample_id": "36892983",
+    "input_length": 513,
+    "output_length": 64,
+    "perplexity": 1.4920320510864258,
+    "generated_summary": "The giant telecoms company BT avoided being split up due to practical obstacles such as complications with land deals and its large pension scheme. Senior sources at BT believe that about 80% of the p",
+    "reference_summary": "The reaction from BT's investors told us much about media regulator Ofcom's ruling on the fate of Openreach, the BT subsidiary that provides much of the UK's broadband infrastructure."
+  },
+  {
+    "sample_id": "37732028",
+    "input_length": 508,
+    "output_length": 64,
+    "perplexity": 1.8276374340057373,
+    "generated_summary": "Rodgers, the new manager of Celtic, is excited about his first visit to Hampden Park, the home of Scottish football. He believes the pitch suits his team's style and intensity. This will be his second",
+    "reference_summary": "Manager Brendan Rodgers is sure Celtic can exploit the wide open spaces of Hampden when they meet Rangers in Sunday's League Cup semi-final."
+  }
+]
